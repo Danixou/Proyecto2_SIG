@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Capitales_Venezuela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "NOMBRE": "Puerto Ayacucho", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -67.624633968946171, 5.666232220807736 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "NOMBRE": "Barcelona", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -64.685131946330969, 10.138525300967839 ] } },
+{ "type": "Feature", "properties": { "cat": 3, "NOMBRE": "San Fernando de Apure", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -67.469084232611792, 7.893480711371403 ] } },
+{ "type": "Feature", "properties": { "cat": 4, "NOMBRE": "Maracay", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -67.601885745595794, 10.246832168776661 ] } },
+{ "type": "Feature", "properties": { "cat": 5, "NOMBRE": "Barinas", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -70.211946349082183, 8.630128621928023 ] } },
+{ "type": "Feature", "properties": { "cat": 6, "NOMBRE": "Ciudad Bolívar", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -63.545206505143483, 8.125956371137994 ] } },
+{ "type": "Feature", "properties": { "cat": 7, "NOMBRE": "Valencia", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -68.001896339285793, 10.180158377622901 ] } },
+{ "type": "Feature", "properties": { "cat": 8, "NOMBRE": "San Carlos", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -68.593578742223343, 9.654038736906296 ] } },
+{ "type": "Feature", "properties": { "cat": 9, "NOMBRE": "Caracas", "TIPO": "Capital Nacional" }, "geometry": { "type": "Point", "coordinates": [ -66.906725711492385, 10.500012351183589 ] } },
+{ "type": "Feature", "properties": { "cat": 10, "NOMBRE": "Coro", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -69.672511289823134, 11.404048438369655 ] } },
+{ "type": "Feature", "properties": { "cat": 11, "NOMBRE": "San Juan de los Morros", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -67.360206286249223, 9.907940557297609 ] } },
+{ "type": "Feature", "properties": { "cat": 12, "NOMBRE": "Tucupita", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -62.057069876621298, 9.071748515751899 ] } },
+{ "type": "Feature", "properties": { "cat": 13, "NOMBRE": "Barquisimeto", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -69.32471189891443, 10.070707477145774 ] } },
+{ "type": "Feature", "properties": { "cat": 14, "NOMBRE": "Mérida", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -71.135861356755527, 8.596792702521265 ] } },
+{ "type": "Feature", "properties": { "cat": 15, "NOMBRE": "Los Teques", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -67.043540951378517, 10.346837666703438 ] } },
+{ "type": "Feature", "properties": { "cat": 16, "NOMBRE": "Maturín", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -63.178424230647899, 9.746864437282996 ] } },
+{ "type": "Feature", "properties": { "cat": 17, "NOMBRE": "La Asunción", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -63.86456650091408, 11.030203301712062 ] } },
+{ "type": "Feature", "properties": { "cat": 18, "NOMBRE": "Guanare", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -69.749156332589124, 9.043475112434594 ] } },
+{ "type": "Feature", "properties": { "cat": 19, "NOMBRE": "Cumaná", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -64.181790298828503, 10.460193522112082 ] } },
+{ "type": "Feature", "properties": { "cat": 20, "NOMBRE": "San Cristóbal", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -72.226996206023486, 7.764000532757279 ] } },
+{ "type": "Feature", "properties": { "cat": 21, "NOMBRE": "Trujillo", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -70.433067166968968, 9.369583466954188 ] } },
+{ "type": "Feature", "properties": { "cat": 22, "NOMBRE": "San Felipe", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -68.736917809108476, 10.336264399884767 ] } },
+{ "type": "Feature", "properties": { "cat": 23, "NOMBRE": "Maracaibo", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -71.634416093386747, 10.639234210317994 ] } },
+{ "type": "Feature", "properties": { "cat": 24, "NOMBRE": "La Guaira", "TIPO": "Capital de Estado" }, "geometry": { "type": "Point", "coordinates": [ -66.928870699223268, 10.598529491943438 ] } }
+]
+}
